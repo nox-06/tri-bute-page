@@ -1,0 +1,30 @@
+
+body {
+    margin-top: 60px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: 100;
+    color: black; 
+    text-align: center;
+    background-color:antiquewhite;
+      }
+h3 { 
+    text-align: left;
+    font-size: 20px;
+    color:saddlebrown;
+    text-underline-position: under;
+
+}
+p {
+    text-align: left;
+    color: black;
+}
+
+li {
+    text-align: left;
+    color: black;
+}
+
+h6 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
